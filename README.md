@@ -5,4 +5,4 @@ Code Project from kitsuDev
 
 demo: http://www.sideka.epizy.com
 
-contact me for db
+MySQL file:
