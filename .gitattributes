@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
-*.rb linguist-language=Java
+* linguist-vendored
+*.php linguist-vendored=false
